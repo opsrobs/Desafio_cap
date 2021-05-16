@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Proway_Cap.csproj",
+  "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Proway_Cap.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,88 +15619,88 @@
   "RootNamespace": "Proway_Cap",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Views\\Anuncio_inv\\Details.cshtml",
-      "TargetPath": "Views\\Anuncio_inv\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Views\\Anuncio_inv\\Edit.cshtml",
-      "TargetPath": "Views\\Anuncio_inv\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Views\\Anuncio_inv\\Create.cshtml",
+      "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Views\\Anuncio_inv\\Create.cshtml",
       "TargetPath": "Views\\Anuncio_inv\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Views\\Anuncios\\Details.cshtml",
-      "TargetPath": "Views\\Anuncios\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Views\\Anuncios\\Create.cshtml",
-      "TargetPath": "Views\\Anuncios\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Views\\Anuncio_inv\\Index.cshtml",
+      "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Views\\Anuncio_inv\\Index.cshtml",
       "TargetPath": "Views\\Anuncio_inv\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Views\\Anuncios\\Edit.cshtml",
-      "TargetPath": "Views\\Anuncios\\Edit.cshtml",
+      "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Views\\Anuncios\\Index.cshtml",
+      "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Views\\Anuncios\\Index.cshtml",
       "TargetPath": "Views\\Anuncios\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Views\\Anuncios\\Delete.cshtml",
+      "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Views\\Anuncio_inv\\Delete.cshtml",
+      "TargetPath": "Views\\Anuncio_inv\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Views\\Anuncios\\Edit.cshtml",
+      "TargetPath": "Views\\Anuncios\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Views\\Anuncio_inv\\Details.cshtml",
+      "TargetPath": "Views\\Anuncio_inv\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Views\\Anuncios\\Create.cshtml",
+      "TargetPath": "Views\\Anuncios\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Views\\Anuncios\\Delete.cshtml",
       "TargetPath": "Views\\Anuncios\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Views\\Anuncio_inv\\Edit.cshtml",
+      "TargetPath": "Views\\Anuncio_inv\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Views\\Anuncio_inv\\Delete.cshtml",
-      "TargetPath": "Views\\Anuncio_inv\\Delete.cshtml",
+      "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Views\\Anuncios\\Details.cshtml",
+      "TargetPath": "Views\\Anuncios\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\robso\\source\\repos\\Proway_cap\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
