@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Proway_Cap.csproj": {}
+    "C:\\Users\\robso\\source\\repos\\Proway_cap\\Proway_Cap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Proway_Cap.csproj": {
+    "C:\\Users\\robso\\source\\repos\\Proway_cap\\Proway_Cap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Proway_Cap.csproj",
+        "projectUniqueName": "C:\\Users\\robso\\source\\repos\\Proway_cap\\Proway_Cap.csproj",
         "projectName": "Proway_Cap",
-        "projectPath": "C:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Proway_Cap.csproj",
+        "projectPath": "C:\\Users\\robso\\source\\repos\\Proway_cap\\Proway_Cap.csproj",
         "packagesPath": "C:\\Users\\robso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\obj\\",
+        "outputPath": "C:\\Users\\robso\\source\\repos\\Proway_cap\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GmGTrtBnZaBjePoqBKzgI6v1bbkjaYv49jnkU1moqBVEMSnNBx5nHSCeixfE8oyttuEVaRtIYuqG5QcT4X43Lw==",
+  "dgSpecHash": "YahJxjYUFSX7hv0jQkKQK5BgT03XBDZE8lqNN6hbhlwAF9jgD0dXS1OTQDcpOJMXnm8nayoXERKBSbe5+aBNnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\robso\\OneDrive\\Área de Trabalho\\Apex\\.git\\Proway_cap\\Proway_Cap.csproj",
+  "projectFilePath": "C:\\Users\\robso\\source\\repos\\Proway_cap\\Proway_Cap.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\robso\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\robso\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
